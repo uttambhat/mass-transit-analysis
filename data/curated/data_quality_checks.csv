@@ -1,0 +1,5 @@
+check,status,detail
+BART monthly station-pair natural key,passed,"206,725 rows, 2019-01 to 2025-12"
+MTC annual indicator overlap,passed,"22 years, 2001-2022"
+County VMT coverage,passed,"9 counties, 2001-2024"
+SFMTA survey,passed,756 rows; 61.0% cells missing across sparse questionnaire fields

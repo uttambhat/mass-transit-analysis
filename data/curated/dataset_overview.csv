@@ -1,0 +1,9 @@
+dataset,rows,columns,missing_cells_pct,duplicate_rows,time_coverage,dtypes
+bart_hourly_profile,48,4,0.0,0,not applicable / not encoded,"float64, int64, str"
+bart_monthly_od,206725,6,0.0,0,2019-01 to 2025-12,"int64, str, string"
+mtc_transit_ridership_by_mode,192,8,0.0,0,1991-2022,"float64, int64, str"
+mtc_transit_ridership_by_operator,660,10,3.74,0,1991-2022,"float64, int64, str"
+mtc_transit_ridership_region,32,7,0.0,0,1991-2022,"float64, int64, str"
+mtc_vmt_by_county,216,6,0.0,0,2001-2024,"float64, int64, str"
+mtc_vmt_region,24,5,0.0,0,2001-2024,"float64, int64, str"
+sfmta_travel_decision_survey_2021,756,258,61.05,0,not applicable / not encoded,"float64, int64"
